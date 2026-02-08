@@ -160,3 +160,10 @@ credentials.json
 
 # Plotly dash cache
 .plotly/.cache
+
+# ignore model files
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pkl
