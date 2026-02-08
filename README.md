@@ -310,11 +310,19 @@ jupyter notebook sentiment_lstm_kaggle.ipynb
 
 ### 🎬 **Live Prediction Examples**
 
-| Input Text | Prediction | Confidence |
-|:-----------|:-----------|:-----------|
-| *"This product is amazing and exceeded all my expectations!"* | 😊 **POSITIVE** | Very High |
-| *"Terrible quality. It broke after one day."* | 😞 **NEGATIVE** | Very High |
-| *"The camera is great but the battery life is disappointing."* | 🤔 **Context-dependent** | Moderate |
+![alt text](screenshot/1.png)
+
+![alt text](screenshot/2.png)
+
+![alt text](screenshot/3.png)
+
+![alt text](screenshot/4.png)
+
+![alt text](screenshot/5.png)
+
+![alt text](screenshot/6.png)
+
+![alt text](screenshot/7.png)
 
 ### 💻 **Web Interface**
 
